@@ -1,4 +1,4 @@
-﻿# YÄ±ldÄ±rÄ±mer Nakliyat - robots.txt
+# Yıldırımer Nakliyat - robots.txt
 # https://yildirimernakliyat.com.tr
 
 User-agent: *
