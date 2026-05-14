@@ -157,7 +157,7 @@ h1, h2, h3, h4 { font-family: 'Outfit', sans-serif; }
 .hero-bg {
   position: absolute;
   inset: 0;
-  background: url('hero-bg.png') center/cover no-repeat;
+  background: url('hero-bg.webp') center/cover no-repeat;
   opacity: 0.35;
 }
 .hero-overlay {
