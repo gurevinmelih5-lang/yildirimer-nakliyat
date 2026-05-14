@@ -1,0 +1,9 @@
+﻿# YÄ±ldÄ±rÄ±mer Nakliyat - robots.txt
+# https://yildirimernakliyat.com.tr
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://yildirimernakliyat.com.tr/sitemap.xml
+
